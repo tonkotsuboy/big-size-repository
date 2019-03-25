@@ -1,0 +1,8 @@
+{
+  "name": "big-size-repository",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tonkotsuboy/big-size-repository",
+  "author": "ics-kano <takeshi.kano@ics-web.jp>",
+  "license": "MIT"
+}
